@@ -11,6 +11,7 @@
         public int Intelligence { get; set; }
         public int Life { get; set; }
 
+
         //metodos
         public virtual void Presentation() { }
         public virtual void Upgrade()
